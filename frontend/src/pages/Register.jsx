@@ -11,6 +11,9 @@ function Register() {
   });
 
   const { name, email, password, password2 } = formData;
+
+  const onChange = () => {};
+
   return (
     <>
       <section className="heading">
