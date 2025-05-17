@@ -2,6 +2,12 @@ const mongoose = require("mongoose");
 
 const goalSchema = mongoose.Schema(
   {
+    user: {
+      type: mongoose.Schema.Types.ObjectId,
+      required: true,
+      ref: "User",
+    },
+    // The user field is a reference to the User model, which allows us to associate each goal with a specific user.
     text: {
       type: String,
       required: [true, "Please add a text value"],
