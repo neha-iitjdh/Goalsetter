@@ -11,7 +11,7 @@ connectDB();
 
 const app = express();
 app.use(cors({
-  origin: 'https://goalsetter-delta.vercel.app/',
+  origin: 'https://goalsetter-delta.vercel.app',
   credentials: true
 }));
 
