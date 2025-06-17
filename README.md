@@ -5,7 +5,7 @@
 ---
 ## 📸 Preview
 
-![Project Screenshot](./assets/preview.png) <!-- Ensure preview image is saved in the assets folder -->
+![Project Screenshot](./frontend/public/previewG.png) <!-- Ensure preview image is saved in the assets folder -->
 
 ---
 
