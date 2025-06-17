@@ -3,6 +3,11 @@
 **GoalSetter** is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to securely register, log in, and manage their personal goals through an intuitive dashboard interface.
 
 ---
+## 📸 Preview
+
+![Project Screenshot](./assets/preview.png) <!-- Ensure preview image is saved in the assets folder -->
+
+---
 
 ## 🚀 Live Demo
 
